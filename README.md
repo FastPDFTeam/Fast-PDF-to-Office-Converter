@@ -33,3 +33,13 @@ No more retyping, no more reentering, no more copy-paste, Fast PDF to Office Con
 * macOS 10.13 or later
 
 ![Screenshot2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/36/4f/a5364f46-ea59-9134-3adf-39e84d1083a9/New_EN_2.png/626x0w.webp)
+
+
+Thanks to all who keep supporting Fast PDF to Office Converter❤️.
+Your encouragement is the fuel that keeps me going.
+
+If you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,
+👋 please reach out. You will get it free of charge🆓️. 
+
+🌐️ If you can help translate Fast PDF to Office Converter into your language or improve Fast PDF to Office Converter's current translations, 
+you will have the lifetime version and your name will be listed as a contributor to Fast PDF to Office Converter.
