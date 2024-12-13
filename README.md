@@ -43,3 +43,4 @@ If you are a student, a teacher, an open-source maintainer, or if purchasing thi
 
 🌐️ If you can help translate Fast PDF to Office Converter into your language or improve Fast PDF to Office Converter's current translations, 
 you will have the lifetime version and your name will be listed as a contributor to Fast PDF to Office Converter.
+[Fast PDF to Office Converter](https://apps.apple.com/us/app/fast-pdf-to-office-converter/id6736963227?mt=12)
